@@ -1,27 +1,54 @@
-# Bytebank
+# ByteBank
 
-Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 10.1.6.
+Bem-vindo ao repositório do ByteBank! Este é um projeto desenvolvido com o intuito de aprender os conceitos básicos do Angular.
 
-## Servidor de desenvolvimento
+## Descrição
 
-Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+O ByteBank é um aplicativo bancário fictício que simula operações bancárias básicas, como visualização de saldo, transferências e histórico de transações. Ele foi desenvolvido como uma introdução ao framework Angular, permitindo aos usuários explorar e praticar os conceitos fundamentais da criação de aplicações web utilizando essa tecnologia.
 
-## Andaime de código
+## Funcionalidades
 
-Execute `ng generate component-name` para gerar um novo componente. Você também pode usar `ng generate directiva|pipe|service|class|guard|interface|enum|module`.
+- Visualização de saldo bancário
+- Realização de transferências entre contas
+- Registro de histórico de transações
 
-## Construir
+## Pré-requisitos
 
-Execute `ng build` para compilar o projeto. Os artefatos de compilação serão armazenados no diretório `dist/`. Use o sinalizador `--prod` para uma compilação de produção.
+Certifique-se de ter os seguintes requisitos antes de executar o aplicativo:
 
-## Executando testes de unidade
+- Node.js (versão X.X.X)
+- Angular CLI (versão X.X.X)
 
-Execute `ng test` para executar os testes de unidade via [Karma](https://karma-runner.github.io).
+## Instalação
 
-## Executando testes de ponta a ponta
+Siga as etapas abaixo para instalar e executar o ByteBank:
 
-Execute `ng e2e` para executar os testes de ponta a ponta via [Protractor](http://www.protractortest.org/).
+1. Clone o repositório do ByteBank em sua máquina local.
+2. Abra o terminal e navegue até a pasta do projeto.
+3. Execute o comando `npm install` para instalar as dependências.
+4. Execute o comando `ng serve` para iniciar o servidor de desenvolvimento.
+5. Acesse o aplicativo em seu navegador através do link `http://localhost:4200`.
 
-## Mais ajuda
+## Contribuição
 
-Para obter mais ajuda sobre o Angular CLI, use `ng help` ou confira o [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Se você gostaria de contribuir para o desenvolvimento do ByteBank, siga as etapas abaixo:
+
+1. Fork o repositório.
+2. Crie uma nova branch com a funcionalidade/alteração desejada (`git checkout -b minha-branch`).
+3. Faça as alterações necessárias e adicione os commits (`git commit -am 'Adicionando nova funcionalidade'`).
+4. Envie as alterações para o repositório remoto (`git push origin minha-branch`).
+5. Abra uma pull request para revisão.
+
+## Licença
+
+O ByteBank é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
+
+## Contato
+
+Para mais informações ou dúvidas sobre o ByteBank, entre em contato conosco:
+
+- Email: bytebank@example.com
+- Website: [www.bytebank.com](https://www.bytebank.com)
+- Twitter: [@bytebank](https://twitter.com/bytebank)
+
+Agradecemos seu interesse em contribuir para o ByteBank. Divirta-se aprendendo Angular e explorando nosso aplicativo bancário fictício!
