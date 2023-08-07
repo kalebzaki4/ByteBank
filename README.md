@@ -52,3 +52,7 @@ Caso tenha alguma dúvida ou sugestão sobre o ByteBank, fique à vontade para e
 - Twitter: [@bytebank](https://twitter.com/bytebank)
 
 Agradecemos seu interesse em contribuir para o ByteBank. Divirta-se aprendendo Angular enquanto explora nosso aplicativo bancário fictício! 💰💳
+
+## Criador 👨‍💻
+
+Este projeto foi criado por kalebzaki4.
